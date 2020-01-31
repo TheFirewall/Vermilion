@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Chloe" Version="4.0.3" />
+    <PackageReference Include="Chloe.Extension" Version="4.0.3" />
+    <PackageReference Include="Chloe.MySql" Version="4.0.3" />
+    <PackageReference Include="Chloe.PostgreSQL" Version="4.0.3" />
+    <PackageReference Include="Chloe.SQLite" Version="4.0.3" />
+    <PackageReference Include="MiNET" Version="1.0.2058" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.112" />
+  </ItemGroup>
+
+</Project>
